@@ -32,5 +32,5 @@ This project transcribes English audio to text, translates it to Arabic, and gen
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/english-to-arabic-convo.git
+   git clone https://github.com/Kandil7/english-to-arabic-convo.git
    cd english-to-arabic-convo
